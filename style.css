@@ -1,0 +1,3041 @@
+.arabic-landing-page {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.arabic-landing-page .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 100%;
+    height: 456.98vw;
+    position: absolute;
+}
+
+.arabic-landing-page .group {
+    position: absolute;
+    width: 100.52vw;
+    height: 91.67vw;
+    top: 420.47vw;
+    left: 0;
+}
+
+.arabic-landing-page .overlap-group {
+    position: relative;
+    width: 100.00vw;
+    height: 91.67vw;
+}
+
+.arabic-landing-page .rectangle {
+    position: absolute;
+    width: 100.00vw;
+    height: 35.10vw;
+    top: 0;
+    left: 0;
+    background: linear-gradient(180deg, rgb(43, 143, 228) 0%, rgb(0, 154.06, 130.78) 100%);
+}
+
+.arabic-landing-page .rectangle-2 {
+    position: absolute;
+    width: 100.00vw;
+    height: 1.98vw;
+    top: 35.10vw;
+    left: 0;
+    background-color: #01897e;
+}
+
+.arabic-landing-page .text-wrapper {
+    position: absolute;
+    top: 12.14vw;
+    left: 19.43vw;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 1.82vw;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 2.34vw;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .img {
+    position: absolute;
+    width: 5.05vw;
+    height: 6.20vw;
+    top: 3.75vw;
+    left: 48.33vw;
+}
+
+.arabic-landing-page .p {
+    position: absolute;
+    width: 63.85vw;
+    top: 15.89vw;
+    left: 18.96vw;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 0.94vw;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 1.56vw;
+    direction: rtl;
+}
+
+.arabic-landing-page .line {
+    position: absolute;
+    width: 72.97vw;
+    height: 0.05vw;
+    top: 20.83vw;
+    left: 14.43vw;
+    object-fit: cover;
+}
+
+.arabic-landing-page .privacy-policy {
+    position: absolute;
+    top: 34.01vw;
+    left: 14.43vw;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 0.73vw;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.arabic-landing-page .terms-conditions {
+    position: absolute;
+    top: 34.01vw;
+    left: 22.19vw;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 0.73vw;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.arabic-landing-page .group-2 {
+    position: absolute;
+    width: 8.80vw;
+    height: 65.62vw;
+    top: 26.04vw;
+    left: 46.51vw;
+}
+
+.arabic-landing-page .ellipse {
+    position: absolute;
+    width: 2.29vw;
+    height: 2.29vw;
+    top: 0;
+    left: 0;
+    border-radius: 1.15vw;
+    border: 0.05vw solid;
+    border-color: #ffffff;
+}
+
+.arabic-landing-page .ellipse-2 {
+    position: absolute;
+    width: 2.29vw;
+    height: 2.29vw;
+    top: 0;
+    left: 3.07vw;
+    border-radius: 1.15vw;
+    border: 0.05vw solid;
+    border-color: #ffffff;
+}
+
+.arabic-landing-page .ellipse-3 {
+    position: absolute;
+    width: 2.29vw;
+    height: 2.29vw;
+    top: 0;
+    left: 6.51vw;
+    border-radius: 1.15vw;
+    border: 0.05vw solid;
+    border-color: #ffffff;
+}
+
+.arabic-landing-page .group-3 {
+    position: absolute;
+    width: 0.99vw;
+    height: 1.20vw;
+    top: 105.31vw;
+    left: -753.39vw;
+}
+
+.arabic-landing-page .vector {
+    position: absolute;
+    width: 1.15vw;
+    height: 1.25vw;
+    top: 105.36vw;
+    left: -760.00vw;
+}
+
+.arabic-landing-page .vector-2 {
+    position: absolute;
+    width: 0.68vw;
+    height: 1.35vw;
+    top: 105.31vw;
+    left: -756.72vw;
+}
+
+.arabic-landing-page .line-2 {
+    position: absolute;
+    width: 0.05vw;
+    height: 0.68vw;
+    top: 34.11vw;
+    left: 20.62vw;
+    object-fit: cover;
+}
+
+.arabic-landing-page .text-wrapper-2 {
+    position: absolute;
+    top: 33.80vw;
+    left: 71.82vw;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 0.83vw;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 1.35vw;
+    white-space: nowrap;
+}
+
+.arabic-landing-page .frame {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 1.56vw;
+    position: absolute;
+    top: 22.24vw;
+    left: 32.66vw;
+}
+
+.arabic-landing-page .div-wrapper {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.52vw;
+    padding: 0.52vw;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.arabic-landing-page .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.05vw;
+    font-family: "Tajawal", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 0.94vw;
+    text-align: left;
+    letter-spacing: 0;
+    line-height: normal;
+    direction: rtl;
+}
+
+.arabic-landing-page .text-wrapper-4 {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.05vw;
+    font-family: "Tajawal", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 1.04vw;
+    text-align: left;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .section {
+    position: absolute;
+    width: 110.21vw;
+    height: 37.14vw;
+    top: 381.82vw;
+    left: -5.68vw;
+}
+
+.arabic-landing-page .overlap {
+    position: relative;
+    width: 101.35vw;
+    height: 37.14vw;
+    left: 4.32vw;
+}
+
+.arabic-landing-page .rectangle-3 {
+    position: absolute;
+    width: 100.00vw;
+    height: 33.80vw;
+    top: 1.98vw;
+    left: 0;
+    background-color: #f9fafe;
+}
+
+.arabic-landing-page .bg-section {
+    position: absolute;
+    width: 100.00vw;
+    height: 36.35vw;
+    top: 0.78vw;
+    left: 1.35vw;
+    object-fit: cover;
+}
+
+.arabic-landing-page .group-4 {
+    position: absolute;
+    width: 20.68vw;
+    height: 1.61vw;
+    top: 0;
+    left: 38.80vw;
+}
+
+.arabic-landing-page .text-wrapper-5 {
+    position: absolute;
+    top: 0;
+    left: 7.34vw;
+    font-family: "EB Garamond", Helvetica;
+    font-weight: 400;
+    color: #009a83;
+    font-size: 1.25vw;
+    text-align: center;
+    letter-spacing: 0.15vw;
+    line-height: normal;
+    direction: rtl;
+}
+
+.arabic-landing-page .line-3 {
+    position: absolute;
+    width: 5.21vw;
+    height: 0.05vw;
+    top: 0.73vw;
+    left: 15.36vw;
+    object-fit: cover;
+}
+
+.arabic-landing-page .line-4 {
+    position: absolute;
+    width: 5.21vw;
+    height: 0.05vw;
+    top: 0.73vw;
+    left: 0;
+    object-fit: cover;
+}
+
+.arabic-landing-page .text-wrapper-6 {
+    position: absolute;
+    top: 3.28vw;
+    left: 34.17vw;
+    font-family: "EB Garamond", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 1.82vw;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 2.34vw;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .ellipse-4 {
+    position: absolute;
+    width: 4.95vw;
+    height: 4.95vw;
+    top: 11.46vw;
+    left: 51.20vw;
+    object-fit: cover;
+}
+
+.arabic-landing-page .ellipse-5 {
+    position: absolute;
+    width: 4.95vw;
+    height: 4.95vw;
+    top: 11.46vw;
+    left: 44.17vw;
+    object-fit: cover;
+}
+
+.arabic-landing-page .text-wrapper-7 {
+    position: absolute;
+    width: 51.56vw;
+    top: 19.32vw;
+    left: 24.22vw;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 0.94vw;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 1.56vw;
+    direction: rtl;
+}
+
+.arabic-landing-page .text-wrapper-8 {
+    position: absolute;
+    top: 26.72vw;
+    left: 47.71vw;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 0.83vw;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 1.56vw;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .text-wrapper-9 {
+    position: absolute;
+    top: 25.26vw;
+    left: 47.45vw;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 1.15vw;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    direction: rtl;
+}
+
+.arabic-landing-page .line-5 {
+    position: absolute;
+    width: 13.91vw;
+    height: 0.05vw;
+    top: 30.52vw;
+    left: 43.07vw;
+    object-fit: cover;
+}
+
+.arabic-landing-page .line-6 {
+    position: absolute;
+    width: 4.43vw;
+    height: 0.10vw;
+    top: 30.47vw;
+    left: 47.81vw;
+}
+
+.arabic-landing-page .ellipse-6 {
+    position: absolute;
+    width: 7.14vw;
+    height: 7.14vw;
+    top: 10.36vw;
+    left: 46.56vw;
+}
+
+.arabic-landing-page .ellipse-7 {
+    position: absolute;
+    width: 2.86vw;
+    height: 2.86vw;
+    top: 8.91vw;
+    left: 50.10vw;
+    border-radius: 1.43vw;
+    background: linear-gradient(180deg, rgb(43, 143, 228) 0%, rgb(0, 154.06, 130.78) 100%);
+}
+
+.arabic-landing-page .left {
+    position: absolute;
+    width: 1.46vw;
+    height: 1.46vw;
+    top: 9.64vw;
+    left: 50.78vw;
+}
+
+.arabic-landing-page .overlap-wrapper {
+    position: absolute;
+    width: 85.57vw;
+    height: 27.40vw;
+    top: 351.88vw;
+    left: 0.78vw;
+}
+
+.arabic-landing-page .overlap-2 {
+    position: relative;
+    height: 27.40vw;
+}
+
+.arabic-landing-page .rectangle-4 {
+    position: absolute;
+    width: 72.55vw;
+    height: 20.16vw;
+    top: 6.72vw;
+    left: 13.02vw;
+    border-radius: 1.09vw;
+    background: linear-gradient(180deg, rgb(43, 143, 228) 0%, rgb(0, 154.06, 130.78) 100%);
+}
+
+.arabic-landing-page .group-wrapper {
+    position: absolute;
+    width: 36.15vw;
+    height: 14.06vw;
+    top: 9.95vw;
+    left: 47.40vw;
+}
+
+.arabic-landing-page .group-5 {
+    position: relative;
+    width: 36.35vw;
+    height: 14.06vw;
+}
+
+.arabic-landing-page .group-6 {
+    position: absolute;
+    width: 12.50vw;
+    height: 1.20vw;
+    top: 0;
+    left: 22.97vw;
+}
+
+.arabic-landing-page .text-wrapper-10 {
+    position: absolute;
+    top: 0;
+    left: 5.94vw;
+    font-family: "Mulish", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 0.94vw;
+    text-align: left;
+    letter-spacing: 0.11vw;
+    line-height: normal;
+    direction: rtl;
+}
+
+.arabic-landing-page .text-wrapper-11 {
+    position: absolute;
+    top: 1.82vw;
+    left: 6.30vw;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 1.82vw;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 2.34vw;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .div-2 {
+    position: absolute;
+    width: 36.04vw;
+    top: 4.79vw;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 0.83vw;
+    letter-spacing: 0;
+    line-height: 1.35vw;
+    direction: rtl;
+}
+
+.arabic-landing-page .span {
+    color: #ffffff;
+}
+
+.arabic-landing-page .text-wrapper-12 {
+    font-weight: 600;
+    color: #ffffff;
+}
+
+.arabic-landing-page .text-wrapper-13 {
+    font-weight: 600;
+    color: #fdcf20;
+}
+
+.arabic-landing-page .mobile-app-store {
+    position: absolute;
+    width: 9.84vw;
+    height: 2.92vw;
+    top: 11.15vw;
+    left: 26.30vw;
+}
+
+.arabic-landing-page .mobile-app-store-2 {
+    position: absolute;
+    width: 8.75vw;
+    height: 2.92vw;
+    top: 11.15vw;
+    left: 16.51vw;
+}
+
+.arabic-landing-page .image {
+    position: absolute;
+    width: 50.10vw;
+    height: 15.47vw;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+}
+
+.arabic-landing-page .shape {
+    width: 3.85vw;
+    height: 3.65vw;
+    top: 21.46vw;
+    left: 37.03vw;
+    position: absolute;
+    object-fit: cover;
+}
+
+.arabic-landing-page .shape-2 {
+    width: 3.49vw;
+    height: 3.44vw;
+    top: 21.88vw;
+    left: 13.85vw;
+    position: absolute;
+    object-fit: cover;
+}
+
+.arabic-landing-page .shape-3 {
+    width: 3.49vw;
+    height: 3.44vw;
+    top: 8.70vw;
+    left: 13.80vw;
+    position: absolute;
+    object-fit: cover;
+}
+
+.arabic-landing-page .shape-4 {
+    width: 3.18vw;
+    height: 3.07vw;
+    top: 24.32vw;
+    left: 60.73vw;
+    position: absolute;
+    object-fit: cover;
+}
+
+.arabic-landing-page .shape-5 {
+    width: 3.18vw;
+    height: 3.07vw;
+    top: 8.70vw;
+    left: 47.24vw;
+    position: absolute;
+    object-fit: cover;
+}
+
+.arabic-landing-page .about-pattern-img {
+    position: absolute;
+    width: 4.22vw;
+    height: 3.18vw;
+    top: 8.12vw;
+    left: 43.39vw;
+    object-fit: cover;
+}
+
+.arabic-landing-page .about-pattern-img-2 {
+    position: absolute;
+    width: 2.60vw;
+    height: 2.76vw;
+    top: 10.68vw;
+    left: 14.95vw;
+    object-fit: cover;
+}
+
+.arabic-landing-page .family-home {
+    position: absolute;
+    width: 37.03vw;
+    height: 24.06vw;
+    top: 1.67vw;
+    left: 13.02vw;
+    object-fit: cover;
+}
+
+.arabic-landing-page .section-2 {
+    position: absolute;
+    width: 73.07vw;
+    height: 42.55vw;
+    top: 307.60vw;
+    left: 13.39vw;
+}
+
+.arabic-landing-page .overlap-group-wrapper {
+    position: absolute;
+    width: 39.17vw;
+    height: 1.61vw;
+    top: 0;
+    left: 17.71vw;
+}
+
+.arabic-landing-page .overlap-group-2 {
+    position: relative;
+    width: 39.06vw;
+    height: 1.61vw;
+}
+
+.arabic-landing-page .text-wrapper-14 {
+    position: absolute;
+    width: 31.25vw;
+    top: 0;
+    left: 3.65vw;
+    font-family: "EB Garamond", Helvetica;
+    font-weight: 600;
+    color: #009a83;
+    font-size: 1.25vw;
+    text-align: center;
+    letter-spacing: 0.15vw;
+    line-height: normal;
+    direction: rtl;
+}
+
+.arabic-landing-page .line-7 {
+    width: 7.45vw;
+    top: 0.78vw;
+    left: 31.61vw;
+    position: absolute;
+    height: 0.05vw;
+    object-fit: cover;
+}
+
+.arabic-landing-page .line-8 {
+    position: absolute;
+    width: 7.45vw;
+    height: 0.05vw;
+    top: 0.78vw;
+    left: 0;
+    object-fit: cover;
+}
+
+.arabic-landing-page .div-3 {
+    position: absolute;
+    width: 72.34vw;
+    top: 3.12vw;
+    left: 0;
+    font-family: "EB Garamond", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 1.82vw;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 2.34vw;
+    direction: rtl;
+}
+
+.arabic-landing-page .text-wrapper-15 {
+    font-weight: 500;
+}
+
+.arabic-landing-page .text-wrapper-16 {
+    font-weight: 600;
+}
+
+.arabic-landing-page .group-7 {
+    position: absolute;
+    width: 23.49vw;
+    height: 11.30vw;
+    top: 18.28vw;
+    left: 0.05vw;
+}
+
+.arabic-landing-page .overlap-3 {
+    position: relative;
+    width: 23.28vw;
+    height: 11.30vw;
+    border-radius: 0.73vw;
+}
+
+.arabic-landing-page .rectangle-5 {
+    position: absolute;
+    width: 23.28vw;
+    height: 11.30vw;
+    top: 0;
+    left: 0;
+    background-color: #ddfff9;
+    border-radius: 0.73vw;
+    opacity: 0.7;
+}
+
+.arabic-landing-page .text-wrapper-17 {
+    position: absolute;
+    width: 8.18vw;
+    top: 0.99vw;
+    left: 13.54vw;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 1.04vw;
+    text-align: left;
+    letter-spacing: 0;
+    line-height: 3.12vw;
+    direction: rtl;
+}
+
+.arabic-landing-page .text-wrapper-18 {
+    position: absolute;
+    width: 21.09vw;
+    top: 3.70vw;
+    left: 0.62vw;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 0.83vw;
+    letter-spacing: 0;
+    line-height: 1.56vw;
+    direction: rtl;
+}
+
+.arabic-landing-page .group-8 {
+    position: absolute;
+    width: 23.49vw;
+    height: 11.30vw;
+    top: 18.28vw;
+    left: 24.90vw;
+}
+
+.arabic-landing-page .text-wrapper-19 {
+    position: absolute;
+    width: 13.85vw;
+    top: 0.62vw;
+    left: 7.66vw;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 1.04vw;
+    letter-spacing: 0;
+    line-height: 3.12vw;
+    direction: rtl;
+}
+
+.arabic-landing-page .text-wrapper-20 {
+    position: absolute;
+    width: 20.42vw;
+    top: 3.23vw;
+    left: 1.09vw;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 0.83vw;
+    letter-spacing: 0;
+    line-height: 1.56vw;
+    direction: rtl;
+}
+
+.arabic-landing-page .group-9 {
+    position: absolute;
+    width: 48.49vw;
+    height: 11.30vw;
+    top: 31.25vw;
+    left: 12.40vw;
+}
+
+.arabic-landing-page .overlap-4 {
+    position: absolute;
+    width: 23.28vw;
+    height: 11.30vw;
+    top: 0;
+    left: 0;
+    border-radius: 0.73vw;
+}
+
+.arabic-landing-page .text-wrapper-21 {
+    position: absolute;
+    width: 10.10vw;
+    top: 0.42vw;
+    left: 11.41vw;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 1.04vw;
+    letter-spacing: 0;
+    line-height: 3.12vw;
+    direction: rtl;
+}
+
+.arabic-landing-page .text-wrapper-22 {
+    position: absolute;
+    width: 20.73vw;
+    top: 3.02vw;
+    left: 0.78vw;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 0.83vw;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: 1.56vw;
+    direction: rtl;
+}
+
+.arabic-landing-page .overlap-5 {
+    position: absolute;
+    width: 23.28vw;
+    height: 11.30vw;
+    top: 0;
+    left: 24.84vw;
+    border-radius: 0.73vw;
+}
+
+.arabic-landing-page .text-wrapper-23 {
+    position: absolute;
+    width: 14.53vw;
+    top: 0.83vw;
+    left: 7.29vw;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 1.04vw;
+    letter-spacing: 0;
+    line-height: 3.12vw;
+    direction: rtl;
+}
+
+.arabic-landing-page .text-wrapper-24 {
+    position: absolute;
+    width: 21.09vw;
+    top: 3.54vw;
+    left: 0.73vw;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 0.83vw;
+    letter-spacing: 0;
+    line-height: 1.56vw;
+    direction: rtl;
+}
+
+.arabic-landing-page .group-10 {
+    position: absolute;
+    width: 23.49vw;
+    height: 11.30vw;
+    top: 18.28vw;
+    left: 49.69vw;
+}
+
+.arabic-landing-page .text-wrapper-25 {
+    position: absolute;
+    width: 11.93vw;
+    top: 0.99vw;
+    left: 9.90vw;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 1.04vw;
+    letter-spacing: 0;
+    line-height: 3.12vw;
+    direction: rtl;
+}
+
+.arabic-landing-page .text-wrapper-26 {
+    position: absolute;
+    width: 20.36vw;
+    top: 3.23vw;
+    left: 1.46vw;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 0.83vw;
+    letter-spacing: 0;
+    line-height: 1.56vw;
+    direction: rtl;
+}
+
+.arabic-landing-page .overlap-6 {
+    position: absolute;
+    width: 106.46vw;
+    height: 300.99vw;
+    top: 0.05vw;
+    left: -0.78vw;
+}
+
+.arabic-landing-page .section-3 {
+    position: absolute;
+    width: 100.21vw;
+    height: 111.09vw;
+    top: 189.90vw;
+    left: 0.78vw;
+}
+
+.arabic-landing-page .overlap-7 {
+    position: absolute;
+    width: 100.00vw;
+    height: 48.91vw;
+    top: 62.19vw;
+    left: 0;
+}
+
+.arabic-landing-page .rectangle-6 {
+    position: absolute;
+    width: 100.00vw;
+    height: 48.59vw;
+    top: 0;
+    left: 0;
+    background: linear-gradient(180deg, rgb(43, 143, 228) 0%, rgb(0, 154.06, 130.78) 100%);
+}
+
+.arabic-landing-page .text-wrapper-27 {
+    top: 6.67vw;
+    left: 36.88vw;
+    font-family: "EB Garamond", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 1.82vw;
+    text-align: center;
+    line-height: 3.12vw;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+    direction: rtl;
+}
+
+.arabic-landing-page .group-11 {
+    position: absolute;
+    width: 74.06vw;
+    height: 32.66vw;
+    top: 16.25vw;
+    left: 13.54vw;
+}
+
+.arabic-landing-page .overlap-group-3 {
+    position: relative;
+    width: 72.81vw;
+    height: 32.66vw;
+    background-image: url(./img/steps-1.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.arabic-landing-page .text-wrapper-28 {
+    position: absolute;
+    top: 17.60vw;
+    left: 49.90vw;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 2.81vw;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 2.34vw;
+    white-space: nowrap;
+}
+
+.arabic-landing-page .text-wrapper-29 {
+    top: 3.91vw;
+    left: 45.42vw;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 2.81vw;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 2.34vw;
+    white-space: nowrap;
+}
+
+.arabic-landing-page .text-wrapper-30 {
+    top: 3.70vw;
+    left: 22.40vw;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 2.81vw;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 2.34vw;
+    white-space: nowrap;
+}
+
+.arabic-landing-page .text-wrapper-31 {
+    top: 17.40vw;
+    left: 19.43vw;
+    position: absolute;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 2.81vw;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 2.34vw;
+    white-space: nowrap;
+}
+
+.arabic-landing-page .overlap-8 {
+    position: absolute;
+    width: 12.40vw;
+    height: 5.99vw;
+    top: 14.79vw;
+    left: 58.33vw;
+}
+
+.arabic-landing-page .text-wrapper-32 {
+    position: absolute;
+    top: 0;
+    left: 3.23vw;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 1.25vw;
+    text-align: left;
+    letter-spacing: 0;
+    line-height: 3.12vw;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .text-wrapper-33 {
+    position: absolute;
+    top: 2.86vw;
+    left: 0;
+    font-family: "EB Garamond", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 0.73vw;
+    letter-spacing: 0;
+    line-height: 1.04vw;
+    direction: rtl;
+}
+
+.arabic-landing-page .overlap-9 {
+    position: absolute;
+    width: 15.31vw;
+    height: 6.51vw;
+    top: 1.04vw;
+    left: 51.72vw;
+}
+
+.arabic-landing-page .text-wrapper-34 {
+    position: absolute;
+    top: 0;
+    left: 1.93vw;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 1.04vw;
+    text-align: left;
+    letter-spacing: 0;
+    line-height: 3.12vw;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .text-wrapper-35 {
+    position: absolute;
+    top: 2.34vw;
+    left: 0;
+    font-family: "EB Garamond", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 0.73vw;
+    letter-spacing: 0;
+    line-height: 1.04vw;
+    direction: rtl;
+}
+
+.arabic-landing-page .overlap-10 {
+    position: absolute;
+    width: 16.56vw;
+    height: 7.55vw;
+    top: 0.89vw;
+    left: 4.01vw;
+}
+
+.arabic-landing-page .text-wrapper-36 {
+    position: absolute;
+    top: 0;
+    left: 0.57vw;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 0.99vw;
+    text-align: left;
+    letter-spacing: 0;
+    line-height: 3.12vw;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .text-wrapper-37 {
+    position: absolute;
+    top: 2.34vw;
+    left: 0;
+    font-family: "EB Garamond", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 0.68vw;
+    letter-spacing: 0;
+    line-height: 1.04vw;
+    direction: rtl;
+}
+
+.arabic-landing-page .overlap-11 {
+    position: absolute;
+    width: 15.94vw;
+    height: 7.81vw;
+    top: 14.27vw;
+    left: 0.68vw;
+}
+
+.arabic-landing-page .text-wrapper-38 {
+    position: absolute;
+    top: 0;
+    left: 3.44vw;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 1.04vw;
+    text-align: left;
+    letter-spacing: 0;
+    line-height: 3.12vw;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .text-wrapper-39 {
+    position: absolute;
+    top: 2.60vw;
+    left: 0;
+    font-family: "EB Garamond", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 0.73vw;
+    letter-spacing: 0;
+    line-height: 1.04vw;
+    direction: rtl;
+}
+
+.arabic-landing-page .group-12 {
+    position: absolute;
+    width: 17.92vw;
+    height: 1.20vw;
+    top: 4.84vw;
+    left: 41.09vw;
+}
+
+.arabic-landing-page .text-wrapper-40 {
+    position: absolute;
+    top: 0;
+    left: 5.57vw;
+    font-family: "EB Garamond", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 0.94vw;
+    text-align: center;
+    letter-spacing: 0.11vw;
+    line-height: normal;
+    direction: rtl;
+}
+
+.arabic-landing-page .line-9 {
+    width: 5.21vw;
+    top: 0.73vw;
+    left: 12.60vw;
+    position: absolute;
+    height: 0.05vw;
+    object-fit: cover;
+}
+
+.arabic-landing-page .text-wrapper-41 {
+    position: absolute;
+    top: 10.36vw;
+    left: 38.28vw;
+    font-family: "EB Garamond", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 1.25vw;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 1.56vw;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .curved-screen-share {
+    position: absolute;
+    width: 4.22vw;
+    height: 4.22vw;
+    top: 0;
+    left: 58.13vw;
+}
+
+.arabic-landing-page .section-4 {
+    position: absolute;
+    width: 92.14vw;
+    height: 35.68vw;
+    top: 212.34vw;
+    left: 14.32vw;
+}
+
+.arabic-landing-page .overlap-12 {
+    position: absolute;
+    width: 72.86vw;
+    height: 33.39vw;
+    top: 2.29vw;
+    left: 0;
+}
+
+.arabic-landing-page .frame-2 {
+    display: flex;
+    width: 9.95vw;
+    align-items: center;
+    justify-content: center;
+    gap: 0.52vw;
+    padding: 0.52vw;
+    position: absolute;
+    top: 29.43vw;
+    left: 62.34vw;
+    background-color: #1b9f91;
+    border-radius: 1.04vw;
+    box-shadow: 0.00vw 0.21vw 0.21vw #00000040;
+}
+
+.arabic-landing-page .text-wrapper-42 {
+    position: relative;
+    width: 9.74vw;
+    margin-top: -0.05vw;
+    margin-left: -0.42vw;
+    margin-right: -0.42vw;
+    font-family: "EB Garamond", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 0.94vw;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 1.56vw;
+    direction: rtl;
+}
+
+.arabic-landing-page .text-wrapper-43 {
+    position: absolute;
+    top: 0;
+    left: 47.34vw;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 1.56vw;
+    text-align: left;
+    letter-spacing: 0;
+    line-height: 3.12vw;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .overlap-13 {
+    position: absolute;
+    width: 72.29vw;
+    height: 33.39vw;
+    top: 0;
+    left: 0;
+}
+
+.arabic-landing-page .online {
+    width: 35.00vw;
+    top: 6.20vw;
+    left: 37.29vw;
+    font-family: "Tajawal", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 1.25vw;
+    line-height: 1.56vw;
+    position: absolute;
+    letter-spacing: 0;
+    direction: rtl;
+}
+
+.arabic-landing-page .text-wrapper-44 {
+    font-weight: 500;
+    color: #000000;
+}
+
+.arabic-landing-page .text-wrapper-45 {
+    font-weight: 700;
+    color: #009a83;
+}
+
+.arabic-landing-page .text-wrapper-46 {
+    color: #009a83;
+}
+
+.arabic-landing-page .text-wrapper-47 {
+    font-weight: 500;
+    color: #22272e;
+}
+
+.arabic-landing-page .virtual-classroom {
+    position: absolute;
+    width: 38.80vw;
+    height: 33.39vw;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+}
+
+.arabic-landing-page .online-2 {
+    position: absolute;
+    width: 33.49vw;
+    top: 25.42vw;
+    left: 39.38vw;
+    font-family: "Tajawal", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 1.25vw;
+    letter-spacing: 0;
+    line-height: 1.56vw;
+    direction: rtl;
+}
+
+.arabic-landing-page .text-wrapper-48 {
+    font-weight: 500;
+    color: #1b9f91;
+}
+
+.arabic-landing-page .text-wrapper-49 {
+    font-weight: 700;
+    color: #1b9f91;
+}
+
+.arabic-landing-page .online-3 {
+    width: 31.61vw;
+    top: 11.88vw;
+    left: 40.99vw;
+    font-family: "Tajawal", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 1.04vw;
+    text-align: justify;
+    line-height: 1.56vw;
+    position: absolute;
+    letter-spacing: 0;
+    direction: rtl;
+}
+
+.arabic-landing-page .text-wrapper-50 {
+    font-family: "Tajawal", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 1.04vw;
+    letter-spacing: 0;
+    line-height: 1.56vw;
+}
+
+.arabic-landing-page .text-wrapper-51 {
+    font-weight: 700;
+}
+
+.arabic-landing-page .line-10 {
+    position: absolute;
+    width: 32.34vw;
+    height: 0.05vw;
+    top: 10.62vw;
+    left: 40.47vw;
+    object-fit: cover;
+}
+
+.arabic-landing-page .line-11 {
+    position: absolute;
+    width: 32.34vw;
+    height: 0.05vw;
+    top: 24.06vw;
+    left: 39.95vw;
+    object-fit: cover;
+}
+
+.arabic-landing-page .section-shape {
+    position: absolute;
+    width: 9.58vw;
+    height: 21.98vw;
+    top: 0;
+    left: 76.88vw;
+    object-fit: cover;
+}
+
+.arabic-landing-page .section-5 {
+    position: absolute;
+    width: 73.02vw;
+    height: 22.60vw;
+    top: 185.83vw;
+    left: 14.32vw;
+}
+
+.arabic-landing-page .text-wrapper-52 {
+    position: absolute;
+    top: 2.76vw;
+    left: 21.35vw;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 1.82vw;
+    text-align: left;
+    letter-spacing: 0;
+    line-height: 3.12vw;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .group-13 {
+    position: absolute;
+    width: 20.78vw;
+    height: 1.51vw;
+    top: 0;
+    left: 52.19vw;
+}
+
+.arabic-landing-page .text-wrapper-53 {
+    position: absolute;
+    top: 0;
+    left: 5.99vw;
+    font-family: "Tajawal", Helvetica;
+    font-weight: 700;
+    color: #009a83;
+    font-size: 1.25vw;
+    text-align: center;
+    letter-spacing: 0.15vw;
+    line-height: normal;
+    direction: rtl;
+}
+
+.arabic-landing-page .group-14 {
+    position: absolute;
+    width: 23.44vw;
+    height: 6.72vw;
+    top: 7.60vw;
+    left: 0;
+}
+
+.arabic-landing-page .overlap-group-4 {
+    position: relative;
+    width: 23.23vw;
+    height: 6.72vw;
+    border-radius: 0.42vw;
+}
+
+.arabic-landing-page .rectangle-7 {
+    position: absolute;
+    width: 23.23vw;
+    height: 6.72vw;
+    top: 0;
+    left: 0;
+    background-color: #ddfff9;
+    border-radius: 0.42vw;
+    opacity: 0.7;
+}
+
+.arabic-landing-page .text-wrapper-54 {
+    position: absolute;
+    width: 16.20vw;
+    top: 3.44vw;
+    left: 1.46vw;
+    font-family: "EB Garamond", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 0.73vw;
+    letter-spacing: 0;
+    line-height: 1.04vw;
+    direction: rtl;
+}
+
+.arabic-landing-page .text-wrapper-55 {
+    position: absolute;
+    top: 1.61vw;
+    left: 5.73vw;
+    font-family: "EB Garamond", Helvetica;
+    font-weight: 600;
+    color: #393939;
+    font-size: 1.30vw;
+    text-align: left;
+    letter-spacing: 0;
+    line-height: 1.56vw;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .group-15 {
+    position: absolute;
+    width: 3.02vw;
+    height: 4.38vw;
+    top: 1.20vw;
+    left: 18.33vw;
+}
+
+.arabic-landing-page .group-16 {
+    position: absolute;
+    width: 23.23vw;
+    height: 6.72vw;
+    top: 7.60vw;
+    left: 49.58vw;
+}
+
+.arabic-landing-page .group-17 {
+    width: 23.44vw;
+    height: 6.72vw;
+}
+
+.arabic-landing-page .text-wrapper-56 {
+    position: absolute;
+    width: 18.44vw;
+    top: 2.66vw;
+    left: 0.78vw;
+    font-family: "EB Garamond", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 0.73vw;
+    letter-spacing: 0;
+    line-height: 1.04vw;
+    direction: rtl;
+}
+
+.arabic-landing-page .text-wrapper-57 {
+    position: absolute;
+    top: 0.83vw;
+    left: 10.62vw;
+    font-family: "EB Garamond", Helvetica;
+    font-weight: 600;
+    color: #393939;
+    font-size: 1.30vw;
+    text-align: left;
+    letter-spacing: 0;
+    line-height: 1.56vw;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .g {
+    position: absolute;
+    width: 3.65vw;
+    height: 4.27vw;
+    top: 1.04vw;
+    left: 19.58vw;
+    background-image: url(./img/clip-path-group.png);
+    background-size: 100% 100%;
+}
+
+.arabic-landing-page .group-18 {
+    position: absolute;
+    width: 23.44vw;
+    height: 6.72vw;
+    top: 15.89vw;
+    left: 24.84vw;
+}
+
+.arabic-landing-page .text-wrapper-58 {
+    position: absolute;
+    width: 16.77vw;
+    top: 2.60vw;
+    left: 1.41vw;
+    font-family: "EB Garamond", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 0.73vw;
+    letter-spacing: 0;
+    line-height: 1.04vw;
+    direction: rtl;
+}
+
+.arabic-landing-page .text-wrapper-59 {
+    position: absolute;
+    top: 0.78vw;
+    left: 8.23vw;
+    font-family: "EB Garamond", Helvetica;
+    font-weight: 600;
+    color: #393939;
+    font-size: 1.30vw;
+    letter-spacing: 0;
+    line-height: 1.56vw;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .check {
+    position: absolute;
+    width: 2.66vw;
+    height: 2.66vw;
+    top: 2.03vw;
+    left: 19.32vw;
+}
+
+.arabic-landing-page .group-19 {
+    position: absolute;
+    width: 23.44vw;
+    height: 6.72vw;
+    top: 15.89vw;
+    left: 0;
+}
+
+.arabic-landing-page .text-wrapper-60 {
+    position: absolute;
+    width: 16.20vw;
+    top: 2.60vw;
+    left: 1.46vw;
+    font-family: "EB Garamond", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 0.73vw;
+    letter-spacing: 0;
+    line-height: 1.04vw;
+    direction: rtl;
+}
+
+.arabic-landing-page .text-wrapper-61 {
+    position: absolute;
+    top: 0.78vw;
+    left: 6.56vw;
+    font-family: "EB Garamond", Helvetica;
+    font-weight: 600;
+    color: #393939;
+    font-size: 1.30vw;
+    text-align: left;
+    letter-spacing: 0;
+    line-height: 1.56vw;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .curved-document {
+    position: absolute;
+    width: 4.48vw;
+    height: 4.48vw;
+    top: 0.99vw;
+    left: 18.18vw;
+}
+
+.arabic-landing-page .group-20 {
+    position: absolute;
+    width: 23.44vw;
+    height: 6.72vw;
+    top: 15.89vw;
+    left: 49.58vw;
+}
+
+.arabic-landing-page .text-wrapper-62 {
+    position: absolute;
+    width: 17.66vw;
+    top: 2.60vw;
+    left: 0.78vw;
+    font-family: "EB Garamond", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 0.73vw;
+    letter-spacing: 0;
+    line-height: 1.04vw;
+    direction: rtl;
+}
+
+.arabic-landing-page .text-wrapper-63 {
+    position: absolute;
+    top: 0.78vw;
+    left: 2.71vw;
+    font-family: "EB Garamond", Helvetica;
+    font-weight: 600;
+    color: #393939;
+    font-size: 1.30vw;
+    letter-spacing: 0;
+    line-height: 1.56vw;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .curved-users-more {
+    position: absolute;
+    width: 3.18vw;
+    height: 3.18vw;
+    top: 2.03vw;
+    left: 19.22vw;
+}
+
+.arabic-landing-page .group-21 {
+    position: absolute;
+    width: 23.44vw;
+    height: 6.72vw;
+    top: 7.60vw;
+    left: 24.79vw;
+}
+
+.arabic-landing-page .overlap-14 {
+    position: relative;
+    width: 23.23vw;
+    height: 6.72vw;
+    border-radius: 0.42vw;
+    background: linear-gradient(180deg, rgb(43, 143, 228) 0%, rgb(0, 154.06, 130.78) 100%);
+}
+
+.arabic-landing-page .text-wrapper-64 {
+    position: absolute;
+    width: 17.81vw;
+    top: 2.71vw;
+    left: 0.78vw;
+    font-family: "EB Garamond", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 0.73vw;
+    letter-spacing: 0;
+    line-height: 1.04vw;
+    direction: rtl;
+}
+
+.arabic-landing-page .text-wrapper-65 {
+    position: absolute;
+    top: 0.94vw;
+    left: 5.00vw;
+    font-family: "EB Garamond", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 1.30vw;
+    text-align: left;
+    letter-spacing: 0;
+    line-height: 1.56vw;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .live-video-on {
+    position: absolute;
+    width: 3.28vw;
+    height: 3.28vw;
+    top: 1.72vw;
+    left: 19.38vw;
+}
+
+.arabic-landing-page .section-6 {
+    position: absolute;
+    width: 73.12vw;
+    height: 27.29vw;
+    top: 152.86vw;
+    left: 14.32vw;
+}
+
+.arabic-landing-page .text-wrapper-66 {
+    position: absolute;
+    top: 1.82vw;
+    left: 17.55vw;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 1.82vw;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 3.12vw;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .group-22 {
+    position: absolute;
+    width: 24.32vw;
+    height: 1.51vw;
+    top: 0;
+    left: 24.38vw;
+}
+
+.arabic-landing-page .text-wrapper-67 {
+    position: absolute;
+    top: 0;
+    left: 6.93vw;
+    font-family: "Tajawal", Helvetica;
+    font-weight: 700;
+    color: #009a83;
+    font-size: 1.25vw;
+    text-align: center;
+    letter-spacing: 0.15vw;
+    line-height: normal;
+    direction: rtl;
+}
+
+.arabic-landing-page .line-12 {
+    width: 5.21vw;
+    top: 0.73vw;
+    left: 19.01vw;
+    position: absolute;
+    height: 0.05vw;
+    object-fit: cover;
+}
+
+.arabic-landing-page .overlap-15 {
+    position: absolute;
+    width: 17.19vw;
+    height: 20.31vw;
+    top: 6.98vw;
+    left: 0;
+}
+
+.arabic-landing-page .group-23 {
+    position: absolute;
+    width: 17.19vw;
+    height: 10.00vw;
+    top: 0;
+    left: 0;
+}
+
+.arabic-landing-page .overlap-group-5 {
+    position: relative;
+    width: 17.08vw;
+    height: 9.38vw;
+    border-radius: 0.42vw;
+    background: linear-gradient(180deg, rgb(43, 144, 227) 0%, rgb(1, 154, 133) 100%);
+}
+
+.arabic-landing-page .text-wrapper-68 {
+    position: absolute;
+    top: 6.30vw;
+    left: 6.72vw;
+    font-family: "Tajawal", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 1.30vw;
+    text-align: left;
+    letter-spacing: 0;
+    line-height: 1.56vw;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .group-24 {
+    position: absolute;
+    width: 17.19vw;
+    height: 11.82vw;
+    top: 8.49vw;
+    left: 0;
+}
+
+.arabic-landing-page .overlap-16 {
+    position: relative;
+    width: 17.08vw;
+    height: 9.38vw;
+    top: 2.45vw;
+    border-radius: 0.42vw;
+    background: linear-gradient(180deg, rgb(43, 144, 227) 0%, rgb(1, 154, 133) 100%);
+}
+
+.arabic-landing-page .text-wrapper-69 {
+    position: absolute;
+    top: 6.30vw;
+    left: 5.83vw;
+    font-family: "Tajawal", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 1.30vw;
+    text-align: left;
+    letter-spacing: 0;
+    line-height: 1.56vw;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .g-2 {
+    position: absolute;
+    width: 3.44vw;
+    height: 3.28vw;
+    top: 13.12vw;
+    left: 6.15vw;
+}
+
+.arabic-landing-page .g-3 {
+    height: 3.59vw;
+    top: 1.15vw;
+    left: 6.67vw;
+    position: absolute;
+    width: 3.75vw;
+}
+
+.arabic-landing-page .group-25 {
+    position: absolute;
+    width: 17.19vw;
+    height: 9.38vw;
+    top: 6.98vw;
+    left: 18.70vw;
+}
+
+.arabic-landing-page .text-wrapper-70 {
+    position: absolute;
+    top: 6.30vw;
+    left: 5.16vw;
+    font-family: "Tajawal", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 1.30vw;
+    text-align: left;
+    letter-spacing: 0;
+    line-height: 1.56vw;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .group-26 {
+    position: absolute;
+    width: 17.19vw;
+    height: 9.38vw;
+    top: 17.92vw;
+    left: 18.65vw;
+}
+
+.arabic-landing-page .text-wrapper-71 {
+    position: absolute;
+    top: 6.09vw;
+    left: 6.93vw;
+    font-family: "Tajawal", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 1.30vw;
+    text-align: left;
+    letter-spacing: 0;
+    line-height: 1.56vw;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .group-27 {
+    position: absolute;
+    width: 17.19vw;
+    height: 9.38vw;
+    top: 6.98vw;
+    left: 37.29vw;
+}
+
+.arabic-landing-page .text-wrapper-72 {
+    position: absolute;
+    top: 6.30vw;
+    left: 4.79vw;
+    font-family: "Tajawal", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 1.30vw;
+    text-align: left;
+    letter-spacing: -0.03vw;
+    line-height: 1.56vw;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .admin {
+    position: absolute;
+    width: 3.39vw;
+    height: 3.39vw;
+    top: 1.77vw;
+    left: 6.88vw;
+}
+
+.arabic-landing-page .group-28 {
+    position: absolute;
+    width: 17.19vw;
+    height: 9.38vw;
+    top: 17.92vw;
+    left: 37.29vw;
+}
+
+.arabic-landing-page .text-wrapper-73 {
+    position: absolute;
+    top: 6.09vw;
+    left: 5.94vw;
+    font-family: "Tajawal", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 1.30vw;
+    text-align: left;
+    letter-spacing: 0;
+    line-height: 1.56vw;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .group-29 {
+    position: absolute;
+    width: 17.19vw;
+    height: 9.38vw;
+    top: 6.98vw;
+    left: 55.94vw;
+}
+
+.arabic-landing-page .text-wrapper-74 {
+    position: absolute;
+    top: 6.30vw;
+    left: 6.35vw;
+    font-family: "Tajawal", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 1.30vw;
+    text-align: left;
+    letter-spacing: 0;
+    line-height: 1.56vw;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .group-30 {
+    position: absolute;
+    width: 17.19vw;
+    height: 9.38vw;
+    top: 17.92vw;
+    left: 55.94vw;
+}
+
+.arabic-landing-page .text-wrapper-75 {
+    position: absolute;
+    top: 6.30vw;
+    left: 3.39vw;
+    font-family: "Tajawal", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 1.30vw;
+    text-align: left;
+    letter-spacing: 0;
+    line-height: 1.56vw;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .section-7 {
+    position: absolute;
+    width: 100.31vw;
+    height: 48.75vw;
+    top: 99.74vw;
+    left: 0;
+}
+
+.arabic-landing-page .overlap-17 {
+    position: relative;
+    width: 100.00vw;
+    height: 48.75vw;
+}
+
+.arabic-landing-page .rectangle-8 {
+    position: absolute;
+    width: 100.00vw;
+    height: 48.75vw;
+    top: 0;
+    left: 0;
+    background-color: #ddfff9;
+    opacity: 0.7;
+}
+
+.arabic-landing-page .text-wrapper-76 {
+    position: absolute;
+    top: 7.03vw;
+    left: 40.83vw;
+    font-family: "Dubai-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 1.82vw;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 3.12vw;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .group-31 {
+    position: absolute;
+    width: 25.62vw;
+    height: 1.51vw;
+    top: 5.21vw;
+    left: 38.44vw;
+}
+
+.arabic-landing-page .text-wrapper-77 {
+    position: absolute;
+    top: 0;
+    left: 7.81vw;
+    font-family: "Tajawal", Helvetica;
+    font-weight: 700;
+    color: #009a83;
+    font-size: 1.25vw;
+    text-align: left;
+    letter-spacing: 0.15vw;
+    line-height: normal;
+    direction: rtl;
+}
+
+.arabic-landing-page .line-13 {
+    width: 5.21vw;
+    top: 0.73vw;
+    left: 20.31vw;
+    position: absolute;
+    height: 0.05vw;
+    object-fit: cover;
+}
+
+.arabic-landing-page .element {
+    position: absolute;
+    width: 60.05vw;
+    top: 11.15vw;
+    left: 22.40vw;
+    font-family: "Tajawal", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 1.56vw;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 1.67vw;
+    direction: rtl;
+}
+
+.arabic-landing-page .online-online-online {
+    position: absolute;
+    width: 37.55vw;
+    top: 20.42vw;
+    left: 49.69vw;
+    font-family: "Tajawal", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 1.46vw;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: 1.82vw;
+    direction: rtl;
+}
+
+.arabic-landing-page .ellipse-8 {
+    position: absolute;
+    width: 23.18vw;
+    height: 23.18vw;
+    top: 23.02vw;
+    left: 21.04vw;
+    background-color: #93ffee;
+    border-radius: 11.59vw;
+    opacity: 0.5;
+}
+
+.arabic-landing-page .ellipse-9 {
+    position: absolute;
+    width: 26.20vw;
+    height: 26.20vw;
+    top: 21.51vw;
+    left: 19.53vw;
+    border-radius: 13.10vw;
+    border: 0.10vw dashed;
+    border-color: #016f95;
+}
+
+.arabic-landing-page .shape-6 {
+    position: absolute;
+    width: 5.00vw;
+    height: 2.24vw;
+    top: 17.08vw;
+    left: 43.23vw;
+    object-fit: cover;
+}
+
+.arabic-landing-page .section-shape-2 {
+    position: absolute;
+    width: 6.88vw;
+    height: 3.59vw;
+    top: 17.92vw;
+    left: 5.26vw;
+    object-fit: cover;
+}
+
+.arabic-landing-page .women-copy {
+    position: absolute;
+    width: 27.08vw;
+    height: 34.06vw;
+    top: 14.69vw;
+    left: 17.81vw;
+}
+
+.arabic-landing-page .section-8 {
+    position: absolute;
+    width: 73.12vw;
+    height: 29.06vw;
+    top: 70.68vw;
+    left: 14.69vw;
+}
+
+.arabic-landing-page .text-wrapper-78 {
+    position: absolute;
+    top: 1.82vw;
+    left: 28.70vw;
+    font-family: "Tajawal", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 1.82vw;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 3.12vw;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .group-32 {
+    position: absolute;
+    width: 18.07vw;
+    height: 1.51vw;
+    top: 0;
+    left: 27.45vw;
+}
+
+.arabic-landing-page .text-wrapper-79 {
+    position: absolute;
+    top: 0;
+    left: 6.20vw;
+    font-family: "Tajawal", Helvetica;
+    font-weight: 700;
+    color: #009a83;
+    font-size: 1.25vw;
+    text-align: center;
+    letter-spacing: 0.15vw;
+    line-height: normal;
+    direction: rtl;
+}
+
+.arabic-landing-page .line-14 {
+    width: 5.21vw;
+    top: 0.73vw;
+    left: 12.76vw;
+    position: absolute;
+    height: 0.05vw;
+    object-fit: cover;
+}
+
+.arabic-landing-page .group-33 {
+    position: absolute;
+    width: 17.19vw;
+    height: 17.08vw;
+    top: 7.24vw;
+    left: 0;
+}
+
+.arabic-landing-page .overlap-group-6 {
+    position: relative;
+    width: 17.08vw;
+    height: 17.08vw;
+    background-color: #ffffff;
+    border-radius: 8.54vw;
+    box-shadow: 0.00vw 0.00vw 0.26vw 0.16vw #0000000d;
+}
+
+.arabic-landing-page .ellipse-10 {
+    position: absolute;
+    width: 15.62vw;
+    height: 15.62vw;
+    top: 0.73vw;
+    left: 0.73vw;
+    border-radius: 7.81vw;
+    border: 0.10vw dashed;
+    border-color: #017096;
+}
+
+.arabic-landing-page .text-wrapper-80 {
+    position: absolute;
+    width: 13.28vw;
+    top: 10.89vw;
+    left: 1.72vw;
+    font-family: "Tajawal", Helvetica;
+    font-weight: 700;
+    color: #393939;
+    font-size: 1.41vw;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 1.56vw;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .self-service {
+    position: absolute;
+    width: 5.52vw;
+    height: 5.52vw;
+    top: 3.85vw;
+    left: 5.78vw;
+}
+
+.arabic-landing-page .group-34 {
+    position: absolute;
+    width: 17.19vw;
+    height: 17.08vw;
+    top: 7.24vw;
+    left: 18.65vw;
+}
+
+.arabic-landing-page .text-wrapper-81 {
+    position: absolute;
+    top: 11.20vw;
+    left: 5.68vw;
+    font-family: "Tajawal", Helvetica;
+    font-weight: 700;
+    color: #393939;
+    font-size: 1.41vw;
+    text-align: left;
+    letter-spacing: 0;
+    line-height: 1.56vw;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .cube-of-notes-stack {
+    position: absolute;
+    width: 4.90vw;
+    height: 4.90vw;
+    top: 4.38vw;
+    left: 6.09vw;
+}
+
+.arabic-landing-page .group-35 {
+    position: absolute;
+    width: 17.19vw;
+    height: 21.82vw;
+    top: 7.24vw;
+    left: 37.29vw;
+}
+
+.arabic-landing-page .text-wrapper-82 {
+    position: absolute;
+    top: 11.20vw;
+    left: 2.29vw;
+    font-family: "Tajawal", Helvetica;
+    font-weight: 700;
+    color: #393939;
+    font-size: 1.41vw;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 1.56vw;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .self-service-2 {
+    position: absolute;
+    width: 6.46vw;
+    height: 6.46vw;
+    top: 3.59vw;
+    left: 5.47vw;
+}
+
+.arabic-landing-page .group-36 {
+    position: absolute;
+    width: 17.19vw;
+    height: 17.08vw;
+    top: 7.24vw;
+    left: 55.94vw;
+}
+
+.arabic-landing-page .text-wrapper-83 {
+    position: absolute;
+    top: 11.20vw;
+    left: 3.44vw;
+    font-family: "Tajawal", Helvetica;
+    font-weight: 700;
+    color: #393939;
+    font-size: 1.41vw;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 1.56vw;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .self-service-3 {
+    position: absolute;
+    width: 6.20vw;
+    height: 6.20vw;
+    top: 3.28vw;
+    left: 5.42vw;
+}
+
+.arabic-landing-page .section-9 {
+    position: absolute;
+    width: 71.88vw;
+    height: 15.21vw;
+    top: 49.74vw;
+    left: 15.31vw;
+}
+
+.arabic-landing-page .text-wrapper-84 {
+    position: absolute;
+    width: 39.53vw;
+    top: 2.34vw;
+    left: 16.09vw;
+    font-family: "Dubai-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 1.82vw;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 3.12vw;
+    direction: rtl;
+}
+
+.arabic-landing-page .group-37 {
+    position: absolute;
+    width: 25.05vw;
+    height: 2.14vw;
+    top: 0;
+    left: 23.49vw;
+}
+
+.arabic-landing-page .text-wrapper-85 {
+    position: absolute;
+    width: 6.35vw;
+    top: 0;
+    left: 9.27vw;
+    font-family: "Dubai-Bold", Helvetica;
+    font-weight: 700;
+    color: #009a83;
+    font-size: 1.25vw;
+    text-align: center;
+    letter-spacing: 0.15vw;
+    line-height: normal;
+    direction: rtl;
+}
+
+.arabic-landing-page .line-15 {
+    width: 5.36vw;
+    top: 1.04vw;
+    left: 19.58vw;
+    position: absolute;
+    height: 0.05vw;
+    object-fit: cover;
+}
+
+.arabic-landing-page .line-16 {
+    position: absolute;
+    width: 5.36vw;
+    height: 0.05vw;
+    top: 1.04vw;
+    left: 0;
+    object-fit: cover;
+}
+
+.arabic-landing-page .ye {
+    position: absolute;
+    width: 14.32vw;
+    height: 3.28vw;
+    top: 9.32vw;
+    left: 0;
+    object-fit: cover;
+}
+
+.arabic-landing-page .university-of {
+    position: absolute;
+    width: 11.93vw;
+    height: 2.40vw;
+    top: 9.43vw;
+    left: 17.92vw;
+    object-fit: cover;
+}
+
+.arabic-landing-page .download {
+    position: absolute;
+    width: 13.23vw;
+    height: 7.19vw;
+    top: 7.03vw;
+    left: 47.60vw;
+    object-fit: cover;
+}
+
+.arabic-landing-page .harvard-university {
+    position: absolute;
+    width: 12.45vw;
+    height: 5.16vw;
+    top: 8.02vw;
+    left: 32.86vw;
+    object-fit: cover;
+}
+
+.arabic-landing-page .element-2 {
+    position: absolute;
+    width: 9.22vw;
+    height: 9.22vw;
+    top: 5.99vw;
+    left: 62.55vw;
+}
+
+.arabic-landing-page .section-10 {
+    position: absolute;
+    width: 105.05vw;
+    height: 245.47vw;
+    top: 0;
+    left: 0.83vw;
+}
+
+.arabic-landing-page .overlap-18 {
+    position: absolute;
+    width: 100.00vw;
+    height: 45.10vw;
+    top: 0;
+    left: 0;
+    background: linear-gradient(180deg, rgb(43, 143, 228) 0%, rgb(0, 154.06, 130.78) 100%);
+}
+
+.arabic-landing-page .overlap-19 {
+    position: absolute;
+    width: 73.02vw;
+    height: 5.05vw;
+    top: 2.40vw;
+    left: 12.66vw;
+    background-color: #ffffff;
+    border-radius: 2.99vw;
+}
+
+.arabic-landing-page .group-38 {
+    position: absolute;
+    width: 2.81vw;
+    height: 3.44vw;
+    top: 0.78vw;
+    left: 1.82vw;
+}
+
+.arabic-landing-page .frame-wrapper {
+    position: absolute;
+    width: 11.41vw;
+    height: 3.12vw;
+    top: 1.09vw;
+    left: 60.83vw;
+}
+
+.arabic-landing-page .frame-3 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.52vw;
+    position: relative;
+}
+
+.arabic-landing-page .rectangle-9 {
+    position: relative;
+    width: 11.41vw;
+    height: 3.12vw;
+    border-radius: 1.64vw;
+    background: linear-gradient(180deg, rgb(43, 143, 228) 0%, rgb(0, 154.06, 130.78) 100%);
+}
+
+.arabic-landing-page .frame-4 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.26vw;
+    padding: 0.26vw;
+    position: absolute;
+    top: 0.89vw;
+    left: 0.16vw;
+}
+
+.arabic-landing-page .text-wrapper-86 {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.05vw;
+    font-family: "Tajawal", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 0.83vw;
+    text-align: left;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .overlap-20 {
+    position: absolute;
+    width: 25.57vw;
+    height: 2.55vw;
+    top: 1.35vw;
+    left: 31.98vw;
+}
+
+.arabic-landing-page .ellipse-11 {
+    position: absolute;
+    width: 2.55vw;
+    height: 2.55vw;
+    top: 0;
+    left: 1.72vw;
+    background-color: #c8f1ff;
+    border-radius: 1.28vw;
+    opacity: 0.5;
+}
+
+.arabic-landing-page .frame-5 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 1.56vw;
+    position: absolute;
+    top: 0.26vw;
+    left: 0;
+}
+
+.arabic-landing-page .text-wrapper-87 {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.05vw;
+    font-family: "Tajawal", Helvetica;
+    font-weight: 700;
+    color: #22272e;
+    font-size: 0.94vw;
+    text-align: left;
+    letter-spacing: 0;
+    line-height: normal;
+    direction: rtl;
+}
+
+.arabic-landing-page .text-wrapper-88 {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.05vw;
+    font-family: "Tajawal", Helvetica;
+    font-weight: 700;
+    color: #029ace;
+    font-size: 1.04vw;
+    text-align: left;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    direction: rtl;
+}
+
+.arabic-landing-page .text-wrapper-89 {
+    position: absolute;
+    top: 0.62vw;
+    left: 14.01vw;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 0.73vw;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.arabic-landing-page .text-wrapper-90 {
+    position: absolute;
+    top: 0.62vw;
+    left: 26.56vw;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 0.73vw;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.arabic-landing-page .text-wrapper-91 {
+    position: absolute;
+    top: 0.62vw;
+    left: 36.51vw;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 0.73vw;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.arabic-landing-page .text-wrapper-92 {
+    position: absolute;
+    top: 0.31vw;
+    left: 79.32vw;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 0.83vw;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.arabic-landing-page .email {
+    position: absolute;
+    width: 0.94vw;
+    height: 0.94vw;
+    top: 0.62vw;
+    left: 12.71vw;
+}
+
+.arabic-landing-page .phone-call {
+    position: absolute;
+    width: 0.83vw;
+    height: 0.83vw;
+    top: 0.68vw;
+    left: 25.26vw;
+}
+
+.arabic-landing-page .overlap-21 {
+    position: absolute;
+    width: 88.44vw;
+    height: 34.69vw;
+    top: 10.36vw;
+    left: 2.34vw;
+}
+
+.arabic-landing-page .overlap-22 {
+    position: absolute;
+    width: 88.44vw;
+    height: 34.69vw;
+    top: 0;
+    left: 0;
+}
+
+.arabic-landing-page .doodle {
+    position: absolute;
+    width: 29.64vw;
+    height: 24.69vw;
+    top: 4.53vw;
+    left: 10.36vw;
+}
+
+.arabic-landing-page .text-wrapper-93 {
+    position: absolute;
+    top: 5.52vw;
+    left: 69.48vw;
+    font-family: "EB Garamond", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 1.15vw;
+    text-align: left;
+    letter-spacing: 0;
+    line-height: normal;
+    direction: rtl;
+}
+
+.arabic-landing-page .online-4 {
+    top: 7.45vw;
+    left: 45.68vw;
+    text-shadow: 0.00vw 0.21vw 0.21vw #00000040;
+    font-family: "Dubai-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 2.34vw;
+    line-height: 3.12vw;
+    position: absolute;
+    letter-spacing: 0;
+    direction: rtl;
+}
+
+.arabic-landing-page .line-17 {
+    position: absolute;
+    width: 7.03vw;
+    height: 0.10vw;
+    top: 7.45vw;
+    left: 27.29vw;
+}
+
+.arabic-landing-page .shape-7 {
+    width: 5.94vw;
+    height: 5.62vw;
+    top: 4.74vw;
+    left: 82.50vw;
+    position: absolute;
+    object-fit: cover;
+}
+
+.arabic-landing-page .shape-8 {
+    width: 3.85vw;
+    height: 3.80vw;
+    top: 0;
+    left: 33.44vw;
+    position: absolute;
+    object-fit: cover;
+}
+
+.arabic-landing-page .shape-9 {
+    width: 8.02vw;
+    height: 7.92vw;
+    top: 23.91vw;
+    left: 0;
+    position: absolute;
+    object-fit: cover;
+}
+
+.arabic-landing-page .group-39 {
+    position: absolute;
+    width: 50.89vw;
+    height: 33.96vw;
+    top: 0.73vw;
+    left: 4.48vw;
+    background-image: url(./img/istock-1433091402.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.arabic-landing-page .img-wrapper {
+    position: relative;
+    width: 15.10vw;
+    height: 9.06vw;
+    top: 19.84vw;
+    left: 24.90vw;
+    background-image: url(./img/rectangle-7.svg);
+    background-size: 100% 100%;
+}
+
+.arabic-landing-page .group-40 {
+    position: absolute;
+    width: 4.74vw;
+    height: 5.68vw;
+    top: 1.88vw;
+    left: 5.36vw;
+}
+
+.arabic-landing-page .text-wrapper-94 {
+    position: absolute;
+    top: 17.71vw;
+    left: 55.94vw;
+    font-family: "EB Garamond", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 1.25vw;
+    letter-spacing: 0;
+    line-height: normal;
+    direction: rtl;
+}
+
+.arabic-landing-page .frame-6 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.52vw;
+    padding: 1.04vw 2.50vw;
+    position: absolute;
+    top: 26.93vw;
+    left: 73.75vw;
+    background-color: #ffffff;
+    border-radius: 1.64vw;
+    overflow: hidden;
+}
+
+.arabic-landing-page .text-wrapper-95 {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.05vw;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #0185b2;
+    font-size: 0.94vw;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    direction: rtl;
+}
+
+.arabic-landing-page .text-wrapper-96 {
+    position: absolute;
+    width: 22.66vw;
+    top: 21.67vw;
+    left: 61.30vw;
+    font-family: "Dubai-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 2.34vw;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    direction: rtl;
+}
+
+.arabic-landing-page .ellipse-12 {
+    position: absolute;
+    width: 1.25vw;
+    height: 1.25vw;
+    top: 0.31vw;
+    left: 77.71vw;
+    object-fit: cover;
+}
+
+.arabic-landing-page .polygon {
+    position: absolute;
+    width: 0.42vw;
+    height: 0.21vw;
+    top: 0.83vw;
+    left: 82.66vw;
+}
+
+.arabic-landing-page .smartphone {
+    position: absolute;
+    width: 0.94vw;
+    height: 0.94vw;
+    top: 0.62vw;
+    left: 35.31vw;
+}
+
+.arabic-landing-page .shape-wrapper {
+    position: absolute;
+    width: 29.90vw;
+    height: 17.66vw;
+    top: 227.81vw;
+    left: 1.88vw;
+    background-image: url(./img/doodle-2.png);
+    background-size: 100% 100%;
+}
+
+.arabic-landing-page .shape-10 {
+    position: absolute;
+    width: 3.85vw;
+    height: 3.80vw;
+    top: 2.40vw;
+    left: 11.93vw;
+    object-fit: cover;
+}
+
+.arabic-landing-page .overlap-23 {
+    position: absolute;
+    width: 18.75vw;
+    height: 32.97vw;
+    top: 202.92vw;
+    left: 81.20vw;
+    background-image: url(./img/doodle-3.png);
+    background-size: 100% 100%;
+}
+
+.arabic-landing-page .shape-11 {
+    position: absolute;
+    width: 5.00vw;
+    height: 5.62vw;
+    top: 12.34vw;
+    left: 13.75vw;
+    object-fit: cover;
+}
+
+.arabic-landing-page .shape-12 {
+    position: absolute;
+    width: 5.94vw;
+    height: 5.62vw;
+    top: 195.47vw;
+    left: 6.61vw;
+    object-fit: cover;
+}
+
+.arabic-landing-page .shape-13 {
+    position: absolute;
+    width: 3.85vw;
+    height: 3.80vw;
+    top: 199.79vw;
+    left: 69.48vw;
+    object-fit: cover;
+}
+
+.arabic-landing-page .g-4 {
+    height: 3.75vw;
+    top: 161.61vw;
+    left: 21.04vw;
+    position: absolute;
+    width: 3.75vw;
+}
+
+.arabic-landing-page .staff {
+    position: absolute;
+    width: 5.78vw;
+    height: 5.78vw;
+    top: 160.47vw;
+    left: 75.47vw;
+}
+
+.arabic-landing-page .defend-family {
+    position: absolute;
+    width: 4.69vw;
+    height: 4.69vw;
+    top: 161.46vw;
+    left: 39.17vw;
+}
+
+.arabic-landing-page .museum {
+    position: absolute;
+    width: 4.69vw;
+    height: 4.69vw;
+    top: 172.19vw;
+    left: 39.22vw;
+}
+
+.arabic-landing-page .deal {
+    position: absolute;
+    width: 4.06vw;
+    height: 4.06vw;
+    top: 172.24vw;
+    left: 57.45vw;
+}
+
+.arabic-landing-page .crowdfunding {
+    position: absolute;
+    width: 4.69vw;
+    height: 4.69vw;
+    top: 171.61vw;
+    left: 76.46vw;
+}
